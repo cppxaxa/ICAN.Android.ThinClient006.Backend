@@ -1,0 +1,2 @@
+rootProject.name='ThinClient006_TestApp_Native'
+include ':app'
